@@ -91,10 +91,10 @@ Welcome to the **Python Programming Mastery** series by **[Elevate Coders](https
 
 ## 🙌 Let's Connect
 
-- **Instagram**: [@elevatecoders](https://instagram.com/elevatecoders)
-- **GitHub**: [@engineersurajsahani](https://github.com/engineersurajsahani)
-- **Website / Portfolio**: _Coming Soon_
+- **🌐 Portfolio**: [engineersurajsahani.netlify.app](https://engineersurajsahani.netlify.app/)
+- **📸 Instagram**: [@elevatecoders](https://instagram.com/elevatecoders)
+- **💻 GitHub**: [@engineersurajsahani](https://github.com/engineersurajsahani)
 
 ---
 
-> 🔔 Don't forget to **like, share, and subscribe** for more quality content.
+> 🔔 Don’t forget to **Like**, **Share**, and **Subscribe** to support the channel and stay updated with more content!
