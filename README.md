@@ -1,4 +1,4 @@
-# 🐍 Python Programming Mastery Playlist
+# 🐍 Python Programming Mastery
 
 Welcome to the **Python Programming Mastery** series by **[Elevate Coders](https://www.youtube.com/@elevatecoders)**. This playlist is designed to take you from the basics of Python to working with databases and powerful modules.
 
