@@ -31,3 +31,6 @@ Method Overriding.
 Polymorphism :- 
 (1) Runtime Polymorphism ---> Method Overriding 
 (2) Compile Time Polymorphism ---> Method Overloading
+
+Runtime Polymorphism :- 
+The function call is resolved at run time is called runtime polymorphism.
