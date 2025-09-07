@@ -1,0 +1,13 @@
+Object Oriented Programming :- 
+
+Class :- 
+(1) It is the template or blueprint for creating the objects.
+(2) It is the collection of objects.
+(3) It is the user defined data type.
+
+Object :- 
+(1) It is the instance or part of the class.
+(2) It is any real world entity which having 3 things :- 
+    (a) Identity 
+    (b) State / Variable / Data 
+    (c) Behaviour / Function / Work / Task 
