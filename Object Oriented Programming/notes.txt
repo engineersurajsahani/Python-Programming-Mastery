@@ -34,3 +34,10 @@ Polymorphism :-
 
 Runtime Polymorphism :- 
 The function call is resolved at run time is called runtime polymorphism.
+
+Method Overloading :- 
+If a class contain more than one function with same name 
+but different number of parameter is called method overloading.
+
+Compile Time Polymorphism :- 
+The function call is resolved at compile time is called compile time polymorphism.
