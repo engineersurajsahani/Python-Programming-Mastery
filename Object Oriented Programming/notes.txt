@@ -41,3 +41,7 @@ but different number of parameter is called method overloading.
 
 Compile Time Polymorphism :- 
 The function call is resolved at compile time is called compile time polymorphism.
+
+Abstraction :- 
+Hide the code complexity from tha user and show only the functionality 
+to the user.
