@@ -1,0 +1,7 @@
+x ---> Create Mode 
+
+r ---> Read Mode 
+
+w ---> Write Mode 
+
+a ---> Append Mode 
