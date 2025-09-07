@@ -11,3 +11,23 @@ Object :-
     (a) Identity 
     (b) State / Variable / Data 
     (c) Behaviour / Function / Work / Task 
+
+Inheritence :- 
+The child class acquire the properties of parent class is called 
+Inheritence.
+
+Types Of Inheritence :- 
+(1) Single Inheritence 
+(2) Multilevel Inheritence 
+(3) Multiple Inheritence 
+(4) Hierarchical Inheritence 
+(5) Hybrid Inheritence 
+
+Method Overriding :- 
+The function which is present in parent class exactly same function 
+is also present in chaild class then it is called 
+Method Overriding.
+
+Polymorphism :- 
+(1) Runtime Polymorphism ---> Method Overriding 
+(2) Compile Time Polymorphism ---> Method Overloading
